@@ -1,0 +1,8 @@
+name = "vesuvio-volley-api"
+main = "src/index.js"
+compatibility_date = "2026-09-29"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vesuvio-volley"
+database_id = "d51baa05-7cf6-4423-bcc0-371d2e198a19"
